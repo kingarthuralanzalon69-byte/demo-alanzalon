@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(85, 227, 168);
+  color: #1e293b;
+  margin: 0;
+  padding: 20px;
+}
+
+.profile {
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 30px;
+  background-color: white;
+  border-top: 5px solid #4f289e;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.section {
+  color: #116b9f;
+  font-weight: bold;
+  margin: 10px 0 20px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #dbe2ea;
+}
+
+h2 {
+  font-size: 18px;
+  margin: 20px 0 0;
+}
